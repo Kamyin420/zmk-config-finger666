@@ -1,4 +1,4 @@
-#include "finger6.dtsi"
+#include "finger666.dtsi"
 
 &kscan0 {
     col-gpios
